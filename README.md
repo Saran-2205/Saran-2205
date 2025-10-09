@@ -1,16 +1,12 @@
 <!-- Profile Banner (Optional) -->
-<p align="center">
-  <img src="https://i.ibb.co/7zRZbM1/futuristic-banner.png" alt="Banner" width="100%">
-</p>
-
 <h1 align="center">👋 Hey, I'm <span style="color:#00FFFF;">Saran Jayan</span></h1>
-<h3 align="center">Manufacturing Engineering Student | MERN Stack Developer | Robotics Enthusiast</h3>
+<h3 align="center"> Manufacturing Engineering Student | MERN Stack Developer </h3>
 
 ---
 
 ### 🧠 About Me  
 I’m a **Manufacturing Engineering** student passionate about fusing **robotics**, **automation**, and **modern web development**.  
-Currently developing the **BotNexus** portfolio website — a dark, futuristic, multi-page web app for our robotics team — using the **MERN stack**.  
+I've have completed the **BotNexus** portfolio website — a dark, futuristic, multi-page web app for our robotics team — using the **MERN stack**.  
 I enjoy designing interfaces that look sharp and perform even sharper.
 
 ---
@@ -33,18 +29,9 @@ I enjoy designing interfaces that look sharp and perform even sharper.
 
 | Project | Description | Tech |
 |----------|--------------|------|
-| [**BotNexus Portfolio Website**](#) | Futuristic multi-page robotics team website with blog + admin dashboard. | MERN, Tailwind, Framer Motion |
-| [**Twitter Clone**](#) | Social platform replica built with React + TanStack Query. | React, TanStack Query |
-| [**Inventory Control Simulator**](#) | Manufacturing model simulator to analyze inventory decisions. | Python, Data Analysis |
-
----
-
-### 📊 GitHub Analytics  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="165" />
-</p>
-
+| [**BotNexus Portfolio Website**](https://www.botnexus.in) | Futuristic multi-page robotics team website with blog + admin dashboard. | MERN, Tailwind CSS |
+| [**Twitter Clone**](https://twitter-clone-jzdm.onrender.com) | Social platform replica built with React + TanStack Query. | React, TanStack Query |
+| [**Climate Now**](https://react-climatenow.netlify.app) | Mini-Weather SPA built with React + WeatherAPI | MERN |
 ---
 
 ### 🌐 Connect With Me  
