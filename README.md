@@ -1,7 +1,7 @@
 <!-- Profile Banner (Optional) -->
 <h1 align="center">👋 Hey, I'm <span style="color:#00FFFF;">Saran Jayan</span></h1>
 <h3 align="center">
-Full-Stack MERN Developer • Robotics Enthusiast • Manufacturing Engineer
+Full-Stack MERN Developer • Manufacturing Engineer
 </h3>
 
 ---
