@@ -1,5 +1,5 @@
+![Profile Views](https://komarev.com/ghpvc/?username=Saran-2205&style=flat-square&color=blue)
 <!-- Profile Header -->
-![Profile Views](https://komarev.com/ghpvc/?username=Saran-2205&color=blue)
 <!-- Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Saran%20Jayan&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
