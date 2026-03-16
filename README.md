@@ -1,4 +1,5 @@
 <!-- Profile Header -->
+![Profile Views](https://komarev.com/ghpvc/?username=Saran-2205&color=blue)
 <h1 align="center">👋 Hi, I'm Saran Jayan</h1>
 <h3 align="center">Full-Stack MERN Developer | Manufacturing Engineering Student</h3>
 
