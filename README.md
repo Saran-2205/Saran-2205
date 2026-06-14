@@ -1,10 +1,10 @@
 <!-- Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Saran%20Jayan&fontSize=42&fontColor=ffffff&animation=fadeIn" />
 
-<h2 align="center">Full-Stack Developer • Builder • Systems Thinker</h2>
+<h2 align="center">Full-Stack Developer • Product Builder</h2>
 
 <p align="center">
-Manufacturing Engineering Student transitioning into Software Engineering
+Manufacturing Engineering Student transitioning into Software Development
 </p>
 
 <p align="center">
@@ -25,17 +25,25 @@ Manufacturing Engineering Student transitioning into Software Engineering
 
 # 👋 Hey, I'm Saran
 
-I didn't begin my journey in software.
+I'm a Manufacturing Engineering student who discovered a passion for building software.
 
-After taking a one-year gap before engineering, I joined **Manufacturing Engineering**, where I became fascinated by how systems are designed, optimized, and improved.
+After taking a one-year gap before engineering, I started my academic journey in Manufacturing Engineering. Along the way, I became increasingly interested in technology, product development, and software systems.
 
-That curiosity led me into robotics, where I worked on competitive projects like a **Line Tracking Robot**, learning control systems, debugging, optimization, and problem solving under pressure.
+That curiosity eventually led me into web development.
 
-Eventually, I found myself spending more time building software than anything else.
+Today, I focus on building modern web applications, scalable platforms, and user-centric digital experiences using the JavaScript ecosystem.
 
-Today, I'm focused on creating modern web applications, scalable platforms, and digital products using the MERN ecosystem.
+I enjoy solving complex problems, learning new technologies, and turning ideas into products people can actually use.
 
-I enjoy turning ideas into real products and solving complex problems through code.
+---
+
+# 🌐 Portfolio
+
+### Live Website
+
+🔗 https://saranjayan.vercel.app
+
+A portfolio documenting my projects, journey, and approach to software development.
 
 ---
 
@@ -65,19 +73,19 @@ I enjoy turning ideas into real products and solving complex problems through co
 
 ## BotNexus
 
-A full-stack platform built for a robotics team to showcase projects, events, achievements, and manage content through an admin dashboard.
+A full-stack platform built for a team to showcase projects, events, achievements, and manage content through a dedicated admin dashboard.
 
-### Highlights
+### Features
 
-- Admin dashboard
-- Dynamic content management
-- Project management system
-- Event showcase
-- Modern responsive UI
+- Admin Dashboard
+- Dynamic Content Management
+- Project Showcase
+- Responsive Design
+- Modern UI
 
-**Tech Stack**
+**Stack**
 
-`Next.js` • `Node.js` • `MongoDB` • `Express` • `TailwindCSS`
+Next.js • Node.js • MongoDB • Express • Tailwind CSS
 
 🔗 https://www.botnexus.in
 
@@ -85,17 +93,15 @@ A full-stack platform built for a robotics team to showcase projects, events, ac
 
 ## Personal Portfolio
 
-My digital home on the internet.
+A modern developer portfolio designed and built from scratch.
 
-Built from scratch to showcase my work, story, projects, and approach to software engineering.
+### Features
 
-### Highlights
-
+- Responsive Design
+- Smooth Animations
+- SEO Optimization
+- Performance Focused
 - Modern UI/UX
-- Motion design
-- Performance optimized
-- SEO optimized
-- Fully responsive
 
 🔗 https://saranjayan.vercel.app
 
@@ -103,11 +109,11 @@ Built from scratch to showcase my work, story, projects, and approach to softwar
 
 ## Twitter Clone
 
-Social media application focused on modern React architecture and efficient data fetching.
+A social media application focused on modern React architecture and efficient client-side data management.
 
-**Tech Stack**
+**Stack**
 
-`React` • `TanStack Query`
+React • TanStack Query
 
 🔗 https://twitter-clone-jzdm.onrender.com
 
@@ -115,46 +121,27 @@ Social media application focused on modern React architecture and efficient data
 
 ## Climate Now
 
-Weather dashboard displaying real-time weather information using external APIs.
+A weather dashboard that displays real-time weather information through external APIs.
 
-**Tech Stack**
+**Stack**
 
-`React` • `Weather API`
+React • Weather API
 
 🔗 https://react-climatenow.netlify.app
 
 ---
 
-# 🏆 Robotics Experience
+# 🎯 Current Focus
 
-### Line Tracking Robot
-
-Designed and optimized a high-speed autonomous line-following robot using:
-
-- Arduino Nano
-- TB6612FNG Motor Driver
-- Smartelex RLX 8 IR Sensor Array
-- PID Control System
-
-### Competitions
-
-- Kurukshetra
-- Quantum Quiver
-- Exione
-- Techno VIT
-- Amrutha Vishwacup
-
-Through robotics I learned:
-
-- Systems thinking
-- Debugging methodology
-- Control systems
-- Team collaboration
-- Performance optimization
+- Building production-grade web applications
+- Strengthening full-stack development skills
+- Learning software architecture and system design
+- Exploring product engineering
+- Creating useful digital products
 
 ---
 
-# 📈 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
 
@@ -166,17 +153,7 @@ Through robotics I learned:
 
 ---
 
-# 🎯 Current Focus
-
-- Building production-grade web applications
-- Deepening full-stack architecture knowledge
-- Exploring performance optimization
-- Learning system design
-- Creating products that solve real problems
-
----
-
-# 📫 Let's Connect
+# 📫 Connect With Me
 
 <p align="center">
 
@@ -197,5 +174,5 @@ Through robotics I learned:
 ---
 
 <p align="center">
-<i>From robotics tracks to production deployments — still building, still learning.</i>
+<i>Building software, learning continuously, and creating products that matter.</i>
 </p>
