@@ -58,28 +58,4 @@ clients, with a catalogue of demo builds.
 ---
 
 <sub>Open to full-stack and graduate engineering roles in Chennai and Bengaluru.</sub>
-```
 
----
-
-## What changed and why
-
-| Removed | Reason |
-|---|---|
-| "Manufacturing Engineering Student **transitioning into** Software Development" | Apologetic. You already build software. States a gap instead of an asset. |
-| The four "featured project" links block | All four are dead, wrong, or weak. Replaced with three entries that actually resolve. |
-| GitHub stats cards | They render 1 follower and 0 stars on your own profile. The widget advertises the weakest metric you have. |
-| "After taking a one-year gap before engineering…" | A gap-year biography invites a screening question with no upside. Keep it for interviews if asked. |
-| "I enjoy solving complex problems and turning ideas into products" | Unfalsifiable. Replaced with the payload migration, which is specific and checkable. |
-| ClimateNow | Your call. It's the weakest build and it was leading the page. |
-
-## Before you paste
-
-1. **LinkedIn — RESOLVED 2026-11-15.** `in/saran-jayan-srinivasan` is canonical. The old
-   `in/saran-jayan-s-473763300` appears nowhere else after this change. Set it as the GitHub
-   profile "website"/social link too, since the API shows the profile `blog` field is empty.
-2. **BotNexus link.** `botnexus-nextjs.vercel.app` works. `www.botnexus.in` does not resolve —
-   either re-point the domain or drop it everywhere.
-3. **Astra link.** `astraneetacademy.com` 308-redirects to `www.`; use the `www` form so the
-   link resolves in one hop.
-4. **Do not add a CGPA until you supply the real number.**
