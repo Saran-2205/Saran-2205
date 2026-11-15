@@ -1,4 +1,3 @@
-
 <h2 align="center">Full-Stack Developer</h2>
 <p align="center">Next.js · React · Node.js · TypeScript</p>
 
@@ -19,8 +18,8 @@ to think in systems; I chose to build them in software.
 
 ### What I've shipped
 
-**BotNexus** — Official platform and admin CMS for a campus club.
-Serving **400–500+ users**. Role-based JWT auth, full CRUD, event and content management.
+**BotNexus** — Official platform and admin CMS for my department's robotics team.
+Role-based JWT auth, full CRUD, event and content management.
 Diagnosed a 10MB+ API payload as the load-time bottleneck and eliminated it by migrating
 image storage from MongoDB Base64 to Cloudinary. Rebuilt and redeployed independently
 after the club dissolved.
@@ -58,4 +57,3 @@ clients, with a catalogue of demo builds.
 ---
 
 <sub>Open to full-stack and graduate engineering roles in Chennai and Bengaluru.</sub>
-
